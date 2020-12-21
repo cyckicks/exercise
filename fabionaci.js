@@ -5,7 +5,6 @@ function fabionaci(value){
         return [];
     }
      for (i=1; i<value; i++){
-         return ;
        if(i == 1){
            a[i] = a[0];
        }
