@@ -13,4 +13,4 @@ var numJewelsInStones = function(jeweles, stones) {
     
 };
 
-console.log(numJewelsInStones("z", "ZZZ"))
+console.log(numJewelsInStones("aA", "abcdAbcdEFaAnh"))
